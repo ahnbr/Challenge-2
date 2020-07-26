@@ -16,11 +16,11 @@ I had some difficulty using the COUNTIFS command in Excel and I still don't thin
 
 ### Analysis of Outcomes Based on Launch Date
 
-file:///Users/brianahn/Desktop/Analysis%20Projects/Crowdfunding%20Analysis/Resources/Theatre_Outcomes_vs_Launch.png
+Theatre_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 
-file:///Users/brianahn/Desktop/Analysis%20Projects/Crowdfunding%20Analysis/Resources/Outcomes_vs_Goals.png
+Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered
 
